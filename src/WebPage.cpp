@@ -4,7 +4,6 @@
 #include "NetworkCookieJar.h"
 #include "UnsupportedContentHandler.h"
 #include <QResource>
-#include <QtNetwork>
 #include <iostream>
 
 WebPage::WebPage(QObject *parent) : QWebPage(parent) {
