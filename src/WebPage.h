@@ -1,5 +1,6 @@
 #include <QtWebKit>
 #include <QtCore>
+#include <QtNetwork>
 
 class WebPage : public QWebPage {
   Q_OBJECT
